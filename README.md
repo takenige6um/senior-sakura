@@ -1,1 +1,2 @@
-# senior-sakura
+# sakurafunctional.github.io
+sakurafunctional website
